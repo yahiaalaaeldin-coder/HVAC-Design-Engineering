@@ -99,7 +99,7 @@ Future project documentation will include:
 | Chillers                  | Studied              |
 | CAV / VAV                 | Studied              |
 | Control Valves            | Studied              |
-| Kitchen Ventilation       | Studied / Ventilation| 
+| Kitchen Ventilation       | Studied / Practicing | 
 
 ---
 
